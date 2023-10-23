@@ -25,3 +25,8 @@ git diff #compares working tree with staging area
 git diff --staged
 
 git commit -a -m "skipped adding shortcut" #cando both add and commit
+
+git rm "filename" #deleted file from all
+gir rm --cached "filename" #deletess from staged area
+git status -s #short status green M means stagging area modified and red M working tree modified
+
