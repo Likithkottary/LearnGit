@@ -18,27 +18,27 @@ git clone [url]\
 
 -------------------
 
-#working with files
-git add home.html #add file to staged area
-git restore --staged home.html #remove file from staged area
-git status
+#working with files\
+git add home.html #add file to staged area\
+git restore --staged home.html #remove file from staged area\
+git status\
 
-git add -A #add all files from repo
-git commit -m "message" #Commit with message
-Git diff - changes made
-Git log –oneline
-Git show <commit id>
+git add -A #add all files from repo\
+git commit -m "message" #Commit with message\
+Git diff - changes made\
+Git log –oneline\
+Git show <commit id>\
 
 --------------------
 
-#BRANCHES
+#BRANCHES\
 git branch <branch name> #create branch\
 git branch #check branch\
 git checkout <branch name> #switch branch\
 git checkout -b "<branch name>" #directly create and switch branch\
 
-delete:
-git branch -d <branch name>
+delete:\
+git branch -d <branch name>\
 
 
 
