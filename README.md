@@ -2,19 +2,19 @@
 git commands 
 -------------------------
 
-#configuration part__
-git config --list__
-git config --global user.name "name"__
-git config --global user.email "mail"__
-git config --list__
+#configuration part\
+git config --list\
+git config --global user.name "name"\
+git config --global user.email "mail"\
+git config --list\
 
 -------------------------
 
-#SSH key generation local device to remote github__
-ssh-keygen -t ed25519 -C "mail"__
+#SSH key generation local device to remote github\
+ssh-keygen -t ed25519 -C "mail"\
 
-#Clone a Repo__
-git clone [url]__
+#Clone a Repo\
+git clone [url]\
 
 -------------------
 
@@ -32,10 +32,10 @@ Git show <commit id>
 --------------------
 
 #BRANCHES
-git branch <branch name> #create branch__
-git branch #check branch__
-git checkout <branch name> #switch branch__
-git checkout -b "<branch name>" #directly create and switch branch__
+git branch <branch name> #create branch\
+git branch #check branch\
+git checkout <branch name> #switch branch\
+git checkout -b "<branch name>" #directly create and switch branch\
 
 delete:
 git branch -d <branch name>
