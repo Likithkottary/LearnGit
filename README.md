@@ -61,7 +61,7 @@ git branch -d "branch name"
 ### Search Emojies for README file
 
 Select the emojies you need\
-[https://emojipedia.org/seedling](https://emojipedia.org/seedling)
+[https://emojipedia.org/](https://emojipedia.org/)
 
 
 
