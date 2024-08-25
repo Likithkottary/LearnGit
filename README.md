@@ -5,6 +5,7 @@ Aim & Applications of this Repo- \
 1.) Guide & Reference for learners.\
 2.) Weekly updates.\
 3.) Learn along with diagrams for basic understanding of git & github.\
+4.) Learn how to write README file.
 
 -------------------------
 
