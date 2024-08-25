@@ -45,7 +45,7 @@ git branch #check branch\
 git checkout "branch name" #switch branch\
 git checkout -b "branch name" #directly create and switch branch
 
-![Alt text](images/git_branch.png)
+![GIt branch image](images/git_branch.png)
 
 `git switch -c <branch-name>` #directly create and switch branch alternate command
 
