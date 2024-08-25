@@ -1,5 +1,11 @@
 # LearnGit
-git commands 
+
+Welcome to this ongoing repository Learngit.\
+Aim & Applications of this Repo- \
+1.) Guide & Reference for learners.
+2.) Weekly updates.
+3.) Learn along with diagrams for basic understanding of git & github.
+
 -------------------------
 
 ### configuration part
