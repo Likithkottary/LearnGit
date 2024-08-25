@@ -1,4 +1,4 @@
-# LearnGit
+# LearnGit🍀
 
 Welcome to this ongoing repository Learngit.\
 Aim & Applications of this Repo- \
@@ -55,6 +55,13 @@ git checkout -b "branch name" #directly create and switch branch
 
 delete:\
 git branch -d "branch name"
+
+
+
+### Search Emojies for README file
+
+Select the emojies you need\
+[https://emojipedia.org/seedling](https://emojipedia.org/seedling)
 
 
 
