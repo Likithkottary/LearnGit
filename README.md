@@ -38,6 +38,8 @@ git branch #check branch\
 git checkout "branch name" #switch branch\
 git checkout -b "branch name" #directly create and switch branch
 
+![Alt text](images/git_branch.png)
+
 `git switch -c <branch-name>` #directly create and switch branch alternate command
 
 `git branch -m <branch-name>` to **rename** the current branch
